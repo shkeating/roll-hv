@@ -1,5 +1,5 @@
 {
-  "siteTitle": "Website",
+  "siteTitle": "🛼",
   "position": {
     "discriminant": "top",
     "value": {
@@ -17,7 +17,7 @@
     "subItemIndent": "10px"
   },
   "colors": {
-    "backgroundColor": "#9cacff87",
+    "backgroundColor": "#9cacff00",
     "menuHoverColor": "#ffffff80",
     "dropdownColor": "#0a0057ed",
     "dropdownHoverColor": "#ffffff80"
